@@ -1,32 +1,30 @@
 #EXTM3U
 #EXTINF:-1 group-title="Deporte",BEIN LA LIGA
 http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=313|User-Agent=tuplayer
-#EXTINF:-1 group-title="Deporte",LA LIGA TV
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=314|User-Agent=tuplayer
-#EXTINF:-1 group-title="Deporte", Movistar Deportes
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=194|User-Agent=tuplayer
-#EXTINF:-1 group-title="Deporte",TDN
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=190|User-Agent=tuplayer
-#EXTINF:-1 group-title="Deporte",Espn MX
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=161|User-Agent=tuplayer
-#EXTINF:-1 group-title="Deporte",Espn 1 sur
+#EXTINF:-1 group-title="Deporte",Directv Sports
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=187|User-Agent=tuplayer
+#EXTINF:-1 group-title="Deporte",Directv Sports 2
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=188|User-Agent=tuplayer
+#EXTINF:-1 group-title="Deporte",Directv Sports Plus
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=186|User-Agent=tuplayer
+#EXTINF:-1 group-title="Deporte",Espn
 http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=97|User-Agent=tuplayer
 #EXTINF:-1 group-title="Deporte",Espn 2 
 http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=96|User-Agent=tuplayer
+#EXTINF:-1 group-title="Deporte",Espn 2 MX
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=161|User-Agent=tuplayer
 #EXTINF:-1 group-title="Deporte",Espn 3 
 http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=95|User-Agent=tuplayer
 #EXTINF:-1 group-title="Deporte",ESPN 4
 http://45.181.122.17:8000/play/a00o
 #EXTINF:-1 group-title="Deporte",ESPN 4 HD
 http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=76|User-Agent=tuplayer
+#EXTINF:-1 group-title="Deporte", ESPN 4 sur
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=211|User-Agent=tuplayer
 #EXTINF:-1 group-title="Deporte", Espn Plus
 http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=160|User-Agent=tuplayer
-#EXTINF:-1 group-title="Deporte",Espn Plus 
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=94|User-Agent=tuplayer
 #EXTINF:-1 group-title="Deporte", Fox Sports 
 http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=77|User-Agent=tuplayer
-#EXTINF:-1 group-title="Deporte", Fox Sports sur
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=211|User-Agent=tuplayer
 #EXTINF:-1 group-title="Deporte", Fox Sports 1
 http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=384|User-Agent=tuplayer
 #EXTINF:-1 group-title="Deporte", Fox Sports 2
@@ -34,33 +32,27 @@ http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=74|User-Agent=tuplayer
 #EXTINF:-1 group-title="Deporte", Fox Sports 2 sur
 http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=75|User-Agent=tuplayer
 #EXTINF:-1 group-title="Deporte",Fox Sports 3
-http://45.181.122.17:8000/play/a010
-#EXTINF:-1 group-title="Deporte",Fox Sports 3 sur
 http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=72|User-Agent=tuplayer
-#EXTINF:-1 group-title="Deporte",Fox Sports 3 otro
+#EXTINF:-1 group-title="Deporte",Fox Sports 3 sur
 http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=165|User-Agent=tuplayer
-#EXTINF:-1 group-title="Deporte",TNT Sports
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=219|User-Agent=tuplayer
-#EXTINF:-1, group-title="Deporte",TNT Sports HD
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=217|User-Agent=tuplayer
-#EXTINF:-1 group-title="Deporte",TNT SPORTS 2
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=215|User-Agent=tuplayer
-#EXTINF:-1 group-title="Deporte",TNT SPORTS 3
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=216|User-Agent=tuplayer
-#EXTINF:-1 group-title="Deporte",Directv Sports Plus
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=186|User-Agent=tuplayer
-#EXTINF:-1 group-title="Deporte",Directv Sports
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=187|User-Agent=tuplayer
-#EXTINF:-1 group-title="Deporte",Directv Sports 2
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=188|User-Agent=tuplayer
 #EXTINF:-1 group-title="Deporte",GOL TV internacional
 http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=338|User-Agent=tuplayer
+#EXTINF:-1 group-title="Deporte", Movistar Deportes
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=194|User-Agent=tuplayer
+#EXTINF:-1 group-title="Deporte",TDN
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=190|User-Agent=tuplayer
 #EXTINF:-1 group-title="Deporte",Tigo Sports 1
 http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=339|User-Agent=tuplayer
 #EXTINF:-1 group-title="Deporte",Tigo Sports 2
 http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=340|User-Agent=tuplayer
 #EXTINF:-1 group-title="Deporte",Tigo Sports 3
 http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=341|User-Agent=tuplayer
+#EXTINF:-1 group-title="Deporte",TNT Sports
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=219|User-Agent=tuplayer
+#EXTINF:-1 group-title="Deporte",TNT SPORTS 2
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=215|User-Agent=tuplayer
+#EXTINF:-1 group-title="Deporte",TNT SPORTS HD
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=216|User-Agent=tuplayer
 #EXTINF:-1 group-title="Peliculas",HBO
 http://45.181.122.17:8000/play/a008
 #EXTINF:-1 group-title="Peliculas",HBO HD
