@@ -53,235 +53,222 @@ http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=219|User-Agent=tuplayer
 http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=215|User-Agent=tuplayer
 #EXTINF:-1 group-title="Deporte",TNT SPORTS HD
 http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=216|User-Agent=tuplayer
-#EXTINF:-1 group-title="Peliculas",HBO
-http://45.181.122.17:8000/play/a008
-#EXTINF:-1 group-title="Peliculas",HBO HD
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=64|User-Agent=tuplayer
-#EXTINF:-1 group-title="Peliculas",HBO 2
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=63|User-Agent=tuplayer
-#EXTINF:-1 group-title="Peliculas",HBO plus
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=59|User-Agent=tuplayer
-#EXTINF:-1 group-title="Peliculas",HBO Signature
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=61|User-Agent=tuplayer
-#EXTINF:-1 group-title="Peliculas",HBO Pop
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=131|User-Agent=tuplayer
-#EXTINF:-1 group-title="Peliculas",HBO Family
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=62|User-Agent=tuplayer
-#EXTINF:-1 group-title="Peliculas",HBO Xtreme
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=132|User-Agent=tuplayer
-#EXTINF:-1 group-title="Peliculas",HBO Mundi
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=133|User-Agent=tuplayer
-#EXTINF:-1 group-title="Peliculas",Cinecanal
-http://45.181.122.17:8000/play/a02c
-#EXTINF:-1 group-title="Peliculas",Cine Canal HD
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=19|User-Agent=tuplaye
-#EXTINF:-1 group-title="Peliculas",Cinemax
-http://45.181.122.17:8000/play/a009
-#EXTINF:-1 group-title="Peliculas",Cinemax HD
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=171|User-Agent=tuplayer
-#EXTINF:-1 group-title="Peliculas",Golden Premier
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=327|User-Agent=tuplayer
-#EXTINF:-1 group-title="Peliculas",Golden
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=67|User-Agent=tuplayer
-#EXTINF:-1 group-title="Peliculas",Golden mx
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=183|User-Agent=tuplayer
-#EXTINF:-1 group-title="Peliculas", Golden Edge 
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=184|User-Agent=tuplayer
-#EXTINF:-1 group-title="Peliculas",FX
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=92|User-Agent=tuplayer
-#EXTINF:-1 group-title="Peliculas",FXM
-http://45.181.122.17:8000/play/a01a
-#EXTINF:-1 group-title="Peliculas",Fx Movie Mex
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=69|User-Agent=tuplayer
-#EXTINF:-1 group-title="Peliculas",STAR CHANNEL
-http://45.181.122.17:8000/play/a02j
-#EXTINF:-1 group-title="Peliculas",STAR LIFE
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=83|User-Agent=tuplayer
-#EXTINF:-1 group-title="Peliculas",STAR Cinema 
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=87|User-Agent=tuplayer
-#EXTINF:-1 group-title="Peliculas",STAR Action
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=90|User-Agent=tuplayer
-#EXTINF:-1 group-title="Peliculas",STAR Classics
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=86|User-Agent=tuplayer
-#EXTINF:-1 group-title="Peliculas",STAR HITS
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=81|User-Agent=tuplayer
-#EXTINF:-1 group-title="Peliculas",STAR FUN
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=84|User-Agent=tuplayer
-#EXTINF:-1 group-title="Peliculas",STAR Comedy
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=85|User-Agent=tuplayer
-#EXTINF:-1 group-title="Peliculas",STAR Series
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=79|User-Agent=tuplayer
-#EXTINF:-1 group-title="Peliculas",TNT HD
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=110|User-Agent=tuplayer
-#EXTINF:-1 group-title="Peliculas",Paramount Channel
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=120|User-Agent=tuplayer
-#EXTINF:-1 group-title="Peliculas",Warner
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=99|User-Agent=tuplayer
-#EXTINF:-1 group-title="Peliculas",Universal
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=103|User-Agent=tuplayer
-#EXTINF:-1 group-title="Peliculas",Studio Universal
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=115|User-Agent=tuplayer
-#EXTINF:-1 group-title="Peliculas",TCM
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=112|User-Agent=tuplayer
-#EXTINF:-1 group-title="Peliculas",AMC
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=6|User-Agent=tuplayer
-#EXTINF:-1 group-title="Peliculas",De Pelicula
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=324|User-Agent=tuplayer
-#EXTINF:-1 group-title="Peliculas",Cine Latino
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=20|User-Agent=tuplayer
-#EXTINF:-1 group-title="Peliculas", Cinema Dinamita
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=21|User-Agent=tuplayer
-#EXTINF:-1 group-title="Peliculas", Azteca Cinema
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=140|User-Agent=tuplayer
-#EXTINF:-1 group-title="Peliculas",TNT Series
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=109|User-Agent=tuplayer
-#EXTINF:-1 group-title="Series",caballeros del zodiaco
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=291|User-Agent=tuplayer
-#EXTINF:-1 group-title="Series",Correcaminos
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=246|User-Agent=tuplayer
-#EXTINF:-1 group-title="Series",Pinky y Cerebro
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=267|User-Agent=tuplayer
-#EXTINF:-1 group-title="Series",Dragon ball
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=284|User-Agent=tuplayer
-#EXTINF:-1 group-title="Series",Dragon Ball Z
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=281|User-Agent=tuplayer
-#EXTINF:-1 group-title="Series",Dragon Ball Super
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=282|User-Agent=tuplayer
-#EXTINF:-1 group-title="Series",Dragon Ball GT
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=283|User-Agent=tuplayer
-#EXTINF:-1 group-title="Series",El Chapulin Colorado
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=251|User-Agent=tuplayer
-#EXTINF:-1 group-title="Series",El chavo
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=290|User-Agent=tuplayer
-#EXTINF:-1  group-title="Series",EL CHAVO TV
-https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
-#EXTINF:-1 group-title="Series",Futurama
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=280|User-Agent=tuplayer
-#EXTINF:-1 group-title="Series",La casa de papel
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=288|User-Agent=tuplayer
-#EXTINF:-1 group-title="Series",Pablo Escobar
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=269|User-Agent=tuplayer
-#EXTINF:-1 group-title="Series",Señor de los cielos
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=264|User-Agent=tuplayer
-#EXTINF:-1 group-title="Series",El chema
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=289|User-Agent=tuplayer
-#EXTINF:-1 group-title="Series",Los picapiedras
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=243|User-Agent=tuplayer
-#EXTINF:-1 group-title="Series",Los Simpsons
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=276|User-Agent=tuplayer
-#EXTINF:-1 group-title="Series",Los Thundercats
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=275|User-Agent=tuplayer
-#EXTINF:-1 group-title="Series",Super campeones
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=258|User-Agent=tuplayer
+#EXTINF:-1 group-title="Entretenimiento",TyC sport
+http://45.181.122.17:8000/play/a032
+#EXTINF:-1 group-title="Entretenimiento",A&E
+http://45.181.122.17:8000/play/a00u
 #EXTINF:-1 group-title="Entretenimiento",Animal Planet
 http://45.181.122.17:8000/play/a00l
 #EXTINF:-1 group-title="Entretenimiento",Animal Planet HD
 http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=3|User-Agent=tuplayer
-#EXTINF:-1 group-title="Entretenimiento",Discovery Channel HD
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=36|User-Agent=tuplayer
+#EXTINF:-1 group-title="Entretenimiento",AXN
+http://45.181.122.17:8000/play/a00b
+#EXTINF:-1 group-title="Entretenimiento", AXN HD
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=2|User-Agent=tuplayer
+#EXTINF:-1 group-title="Entretenimiento",Comedy Central
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=29|User-Agent=tuplayer
 #EXTINF:-1 group-title="Entretenimiento",Discovery Channel
 http://45.181.122.17:8000/play/a00k
+#EXTINF:-1 group-title="Entretenimiento",Discovery Channel HD
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=36|User-Agent=tuplayer
 #EXTINF:-1 group-title="Entretenimiento",Discovery ID
 http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=52|User-Agent=tuplayer
-#EXTINF:-1 group-title="Entretenimiento",Discovery Civilization
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=325|User-Agent=tuplayer
 #EXTINF:-1 group-title="Entretenimiento",Discovery Science
 http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=39|User-Agent=tuplayer
 #EXTINF:-1 group-title="Entretenimiento",Discovery Theater
 http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=40|User-Agent=tuplayer
+#EXTINF:-1 group-title="Entretenimiento", Distrito Comedia
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=149|User-Agent=tuplayer
+#EXTINF:-1 group-title="Entretenimiento",E! Entertainment
+http://45.181.122.17:8000/play/a00n
+#EXTINF:-1 group-title="Entretenimiento",E! Entertainment HD
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=46|User-Agent=tuplayer
 #EXTINF:-1 group-title="Entretenimiento",Food Network
 http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=174|User-Agent=tuplayer
+#EXTINF:-1 group-title="Entretenimiento",HGTV
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=325|User-Agent=tuplayer
 #EXTINF:-1 group-title="Entretenimiento",History Channel
 http://45.181.122.17:8000/play/a02b
 #EXTINF:-1 group-title="Entretenimiento",History Channel HD
 http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=56|User-Agent=tuplayer
-#EXTINF:-1 group-title="Entretenimiento",HomeandHealth
-http://45.181.122.17:8000/play/a01t
 #EXTINF:-1 group-title="Entretenimiento",HomeandHealth HD
 http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=37|User-Agent=tuplayer
-#EXTINF:-1 group-title="Entretenimiento",Tru TV
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=105|User-Agent=tuplayer
+#EXTINF:-1 group-title="Entretenimiento",MTV
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=50|User-Agent=tuplayer
 #EXTINF:-1 group-title="Entretenimiento",Nat Geo
 http://45.181.122.17:8000/play/a02a
 #EXTINF:-1 group-title="Entretenimiento",Nat Geo HD
 http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=125|User-Agent=tuplayer
 #EXTINF:-1 group-title="Entretenimiento",Nat Geo Wild
 http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=124|User-Agent=tuplayer
-#EXTINF:-1 group-title="Entretenimiento",National Geographic Channel
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=128|User-Agent=tuplayer
-#EXTINF:-1 group-title="Entretenimiento",Comedy Central
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=29|User-Agent=tuplayer
 #EXTINF:-1 group-title="Entretenimiento",Sony
 http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=117|User-Agent=tuplayer
-#EXTINF:-1 group-title="Entretenimiento",Space
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=116|User-Agent=tuplayer
+#EXTINF:-1 group-title="Entretenimiento",Telehit
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=179|User-Agent=tuplayer
 #EXTINF:-1 group-title="Entretenimiento",TLC
 http://45.181.122.17:8000/play/a00w
 #EXTINF:-1 group-title="Entretenimiento",TLC HD
 http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=111|User-Agent=tuplayer
-#EXTINF:-1 group-title="Entretenimiento",TBS
+#EXTINF:-1 group-title="Entretenimiento",Tru TV
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=105|User-Agent=tuplayer
+#EXTINF:-1 group-title="Peliculas",AMC
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=6|User-Agent=tuplayer
+#EXTINF:-1 group-title="Peliculas", Azteca Cinema
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=140|User-Agent=tuplayer
+#EXTINF:-1 group-title="Peliculas",Cinecanal
+http://45.181.122.17:8000/play/a02c
+#EXTINF:-1 group-title="Peliculas",Cine Canal HD
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=19|User-Agent=tuplayer
+#EXTINF:-1 group-title="Peliculas",Cine Latino
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=20|User-Agent=tuplayer
+#EXTINF:-1 group-title="Peliculas", Cinema Dinamita
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=21|User-Agent=tuplayer
+#EXTINF:-1 group-title="Peliculas",Cinemax
+http://45.181.122.17:8000/play/a009
+#EXTINF:-1 group-title="Peliculas",Cinemax HD
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=171|User-Agent=tuplayer
+#EXTINF:-1 group-title="Peliculas",De Pelicula
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=324|User-Agent=tuplayer
+#EXTINF:-1 group-title="Peliculas",FX
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=92|User-Agent=tuplayer
+#EXTINF:-1 group-title="Peliculas",FXM
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=69|User-Agent=tuplayer
+#EXTINF:-1 group-title="Peliculas", Golden Edge 
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=184|User-Agent=tuplayer
+#EXTINF:-1 group-title="Peliculas", Golden Edge 2
+https://www.tvconexion.com/golden-edge-en-vivo/
+#EXTINF:-1 group-title="Peliculas",Golden PLUS
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=67|User-Agent=tuplayer
+#EXTINF:-1 group-title="Peliculas",HBO
+http://45.181.122.17:8000/play/a008
+#EXTINF:-1 group-title="Peliculas",HBO 2
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=63|User-Agent=tuplayer
+#EXTINF:-1 group-title="Peliculas",HBO Family
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=62|User-Agent=tuplayer
+#EXTINF:-1 group-title="Peliculas",HBO HD
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=64|User-Agent=tuplayer
+#EXTINF:-1 group-title="Peliculas",HBO Mundi
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=133|User-Agent=tuplayer
+#EXTINF:-1 group-title="Peliculas",HBO plus
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=59|User-Agent=tuplayer
+#EXTINF:-1 group-title="Peliculas",HBO Pop
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=131|User-Agent=tuplayer
+#EXTINF:-1 group-title="Peliculas",HBO Signature
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=61|User-Agent=tuplayer
+#EXTINF:-1 group-title="Peliculas",HBO Xtreme
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=132|User-Agent=tuplayer
+#EXTINF:-1 group-title="Peliculas",Paramount Channel
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=120|User-Agent=tuplayer
+#EXTINF:-1 group-title="Peliculas",Space
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=116|User-Agent=tuplayer
+#EXTINF:-1 group-title="Peliculas",STAR Action
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=90|User-Agent=tuplayer
+#EXTINF:-1 group-title="Peliculas",STAR CHANNEL
+http://45.181.122.17:8000/play/a02j
+#EXTINF:-1 group-title="Peliculas",STAR Cinema 
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=87|User-Agent=tuplayer
+#EXTINF:-1 group-title="Peliculas",STAR Classics
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=86|User-Agent=tuplayer
+#EXTINF:-1 group-title="Peliculas",STAR Comedy
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=85|User-Agent=tuplayer
+#EXTINF:-1 group-title="Peliculas",STAR FUN
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=84|User-Agent=tuplayer
+#EXTINF:-1 group-title="Peliculas",STAR HITS
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=81|User-Agent=tuplayer
+#EXTINF:-1 group-title="Peliculas",STAR LIFE
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=83|User-Agent=tuplayer
+#EXTINF:-1 group-title="Peliculas",STAR Series
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=79|User-Agent=tuplayer
+#EXTINF:-1 group-title="Peliculas",Studio Universal
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=115|User-Agent=tuplayer
+#EXTINF:-1 group-title="Peliculas",TBS
 http://45.181.122.17:8000/play/a01r
-#EXTINF:-1 group-title="Entretenimiento",MTV
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=50|User-Agent=tuplayer
-#EXTINF:-1 group-title="Entretenimiento",MTV HITS
-http://45.181.122.17:8000/play/a02f
-#EXTINF:-1 group-title="Entretenimiento",Telehit
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=179|User-Agent=tuplayer
-#EXTINF:-1 group-title="Entretenimiento",E! Entertainment HD
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=46|User-Agent=tuplayer
-#EXTINF:-1 group-title="Entretenimiento",E! Entertainment
-http://45.181.122.17:8000/play/a00n
-#EXTINF:-1 group-title="Entretenimiento",A&E
-http://45.181.122.17:8000/play/a00u
-#EXTINF:-1 group-title="Entretenimiento",AXN
-http://45.181.122.17:8000/play/a00b
-#EXTINF:-1 group-title="Entretenimiento", AXN HD
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=2|User-Agent=tuplayer
-#EXTINF:-1 group-title="Entretenimiento", Distrito Comedia
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=149|User-Agent=tuplayer
-#EXTINF:-1 group-title="Entretenimiento",TyC
-http://45.181.122.17:8000/play/a032
+#EXTINF:-1 group-title="Peliculas",TCM
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=112|User-Agent=tuplayer
+#EXTINF:-1 group-title="Peliculas",TNT HD
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=110|User-Agent=tuplayer
+#EXTINF:-1 group-title="Peliculas",TNT Series
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=109|User-Agent=tuplayer
+#EXTINF:-1 group-title="Peliculas",Universal
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=103|User-Agent=tuplayer
+#EXTINF:-1 group-title="Peliculas",Warner
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=99|User-Agent=tuplayer
+#EXTINF:-1 group-title="Series",caballeros del zodiaco
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=291|User-Agent=tuplayer
+#EXTINF:-1 group-title="Series",Correcaminos
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=246|User-Agent=tuplayer
+#EXTINF:-1 group-title="Series",Dragon ball
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=284|User-Agent=tuplayer
+#EXTINF:-1 group-title="Series",Dragon Ball GT
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=283|User-Agent=tuplayer
+#EXTINF:-1 group-title="Series",Dragon Ball Super
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=282|User-Agent=tuplayer
+#EXTINF:-1 group-title="Series",Dragon Ball Z
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=281|User-Agent=tuplayer
+#EXTINF:-1 group-title="Series",El Chapulin Colorado
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=251|User-Agent=tuplayer
+#EXTINF:-1 group-title="Series",El chavo
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=290|User-Agent=tuplayer
+#EXTINF:-1  group-title="Series",EL CHAVO TV
+https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
+#EXTINF:-1 group-title="Series",El chema
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=289|User-Agent=tuplayer
+#EXTINF:-1 group-title="Series",Futurama
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=280|User-Agent=tuplayer
+#EXTINF:-1 group-title="Series",La casa de papel
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=288|User-Agent=tuplayer
+#EXTINF:-1 group-title="Series",Los picapiedras
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=243|User-Agent=tuplayer
+#EXTINF:-1 group-title="Series",Los Simpsons
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=276|User-Agent=tuplayer
+#EXTINF:-1 group-title="Series",Los Thundercats
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=275|User-Agent=tuplayer
+#EXTINF:-1 group-title="Series",Pablo Escobar
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=269|User-Agent=tuplayer
+#EXTINF:-1 group-title="Series",Pinky y Cerebro
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=267|User-Agent=tuplayer
+#EXTINF:-1 group-title="Series",Señor de los cielos
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=264|User-Agent=tuplayer
+#EXTINF:-1 group-title="Series",Super campeones
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=258|User-Agent=tuplayer
+#EXTINF:-1 group-title="Novelas y mas", Azteca 7
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=134|User-Agent=tuplayer
+#EXTINF:-1 group-title="Novelas y mas", Azteca UNO 
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=135|User-Agent=tuplayer
+#EXTINF:-1 group-title="Novelas y mas", ESTRELLA TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Novelas y mas",La Red
+http://45.181.122.17:8000/play/a015
+#EXTINF:-1 group-title="Novelas y mas", Las Estrellas
+http://45.181.122.17:8000/play/a00y
+#EXTINF:-1 group-title="Novelas y mas",Las Estrellas HD
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=145|User-Agent=tuplayer
 #EXTINF:-1 group-title="Novelas y mas",Telemundo
 http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=108|User-Agent=tuplayer
 #EXTINF:-11 group-title="Novelas y mas",Univision
 http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=102|User-Agent=tuplayer
-#EXTINF:-1 group-title="Novelas y mas",La Red
-http://45.181.122.17:8000/play/a015
-#EXTINF:-1 group-title="Novelas y mas",Canal Estrellas
-http://45.181.122.17:8000/play/a00y
-#EXTINF:-1 group-title="Novelas y mas",Las Estrellas
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=145|User-Agent=tuplayer
-#EXTINF:-1 group-title="Novelas y mas", ESTRELLA TV
-https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Novelas y mas", Azteca UNO 
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=135|User-Agent=tuplayer
-#EXTINF:-1 group-title="Novelas y mas", Azteca 7
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=134|User-Agent=tuplayer
-#EXTINF:-1 group-title="Infantiles",Discovery Kids
-http://45.181.122.17:8000/play/a013
-#EXTINF:-1 group-title="Infantiles",Discovery Kids HD
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=38|User-Agent=tuplayer
-#EXTINF:-1 group-title="Infantiles",peppa pig
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=241|User-Agent=tuplayer
-#EXTINF:-1 group-title="Infantiles",Nick Jr
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=122|User-Agent=tuplayer
-#EXTINF:-1 group-title="Infantiles", Nick
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=123|User-Agent=tuplayer
-#EXTINF:-1 group-title="Infantiles",Nickelodeon
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=121|User-Agent=tuplayer
-#EXTINF:-1 group-title="Infantiles",Disney Channel
-http://45.181.122.17:8000/play/a00j
-#EXTINF:-1 group-title="Infantiles",Disney Jr
-http://45.181.122.17:8000/play/a01k
-#EXTINF:-1 group-title="Infantiles",Disney Jr HD
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=44|User-Agent=tuplayer
-#EXTINF:-1 group-title="Infantiles",Disney XD
-http://45.181.122.17:8000/play/a029
-#EXTINF:-1 group-title="Infantiles",Disney XD HD
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=45|User-Agent=tuplayer
 #EXTINF:-1 group-title="Infantiles",Cartoon Network
 http://45.181.122.17:8000/play/a02m
 #EXTINF:-1 group-title="Infantiles",Cartoon Network HD
 http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=18|User-Agent=tuplayer
+#EXTINF:-1 group-title="Infantiles",Discovery Kids
+http://45.181.122.17:8000/play/a013
+#EXTINF:-1 group-title="Infantiles",Discovery Kids HD
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=38|User-Agent=tuplayer
+#EXTINF:-1 group-title="Infantiles",Disney Channel
+http://45.181.122.17:8000/play/a00j
+#EXTINF:-1 group-title="Infantiles",Disney Jr HD
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=44|User-Agent=tuplayer
+#EXTINF:-1 group-title="Infantiles",Disney XD 
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=45|User-Agent=tuplayer
 #EXTINF:-1 group-title="Infantiles",NatGeo Kids
 http://45.181.122.17:8000/play/a02l
+#EXTINF:-1 group-title="Infantiles", Nick
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=123|User-Agent=tuplayer
+#EXTINF:-1 group-title="Infantiles",Nickelodeon
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=121|User-Agent=tuplayer
+#EXTINF:-1 group-title="Infantiles",Nick Jr
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=122|User-Agent=tuplayer
+#EXTINF:-1 group-title="Infantiles",peppa pig
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=241|User-Agent=tuplayer
+
