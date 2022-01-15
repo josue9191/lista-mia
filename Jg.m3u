@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 logo="http://ww.telegran.net/data/png/DISCOVERY_KIDS_HD.png" tvg-id="a9fdcde8e2b658af1ce75f0774b68ef5",Discovery Kids HD
-http://iptv.gcdn.co:9981/stream/channelid/1758330281?ticket=C20863BD9721611B992C80C507D221879146B91C&profile=pass
+#EXTINF:-1  tvg-id=ts341  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11396-j9jq7jg0-v1/imageContent-11396-j9jq7jg0-m1.png   group-title=Knowledge,   Discovery HD World
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000361&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMDU5NjM4NjQxIiwiaXNlIjp0cnVlLCJqdGkiOiI0Mjk5MDczMy04ZDc4LTQ0ODEtYWU3Mi0yYmYxYzc1YmYwOGUiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQyMjgwNjkyLCJuYW1lIjoiTiBCdXdhIiwiaWF0IjoxNjQyMTk0MjkyLCJlbnQiOlt7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDEzNjQifV0sImlzcyI6IlRUTiJ9.e9KaQfXUJ4TLIwGgYTNFIKAs0RQMImOFBWYsLkmk3i8
+https://delta38tatasky.akamaized.net/out/i/3085468.mpd
