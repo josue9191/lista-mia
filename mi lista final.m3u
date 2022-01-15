@@ -269,4 +269,7 @@ http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=121|User-Agent=tuplayer
 http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=122|User-Agent=tuplayer
 #EXTINF:-1 group-title="Infantiles",peppa pig
 http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=241|User-Agent=tuplayer
-
+#EXTINF:-1 group-title="Infantiles Ingles",Nick Jr. (West)
+http://fling.sytes.net:25461/f8GFniePT4/Sk6ZQGdz7n/1872?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Infantiles Ingles",Nick Jr. Pluto TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
