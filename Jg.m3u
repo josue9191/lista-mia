@@ -1,11 +1,3 @@
 #EXTM3U
-#EXTINF:-1, Disvovery Kids 2
-http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/16024
-#EXTINF:-1,DISCOVERY KIDS FHD VIP Latin America
-http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/11284
-#EXTINF:-1,DISCOVERY KIDS VIP Latin America
-http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/11593
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="http://s20.postimg.org/o9v67go09/Discovery_Kids.png" group-title="Infantil",Discovery Kids
-http://95.141.35.104:8081/look/discoverykids1/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="http://s20.postimg.org/o9v67go09/Discovery_Kids.png" group-title="Infantil",Discovery Kids HD
-http://listaiptv.brcs.ml:8080/HD_DISCOVERY_KIDS/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+#EXTINF:-1  group-title="Kids",Discovery Kids English
+https://itvorigin.multitvsolution.com/idvo/discoverykidseng.m3u8
